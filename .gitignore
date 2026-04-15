@@ -1,0 +1,19 @@
+# Python environment and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django local database
+db.sqlite3
+
+# User uploaded media
+ktp/
+bukti_bayar/
+media/
+
+# Virtual Environment & Secrets
+env1/
+env/
+venv/
+.env
